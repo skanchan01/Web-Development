@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Century Gothic;
+    
+
+}
+.democls{
+    background-color: darkgoldenrod
+    
+
+}
+.background{
+    height: 1000px;
+    width: 100;
+}
+.color{
+    color: azure;
+}
+.text-alignment{
+    text-align: center;
+
+}
+
+.center{
+    text-align: center;
+}
+.shadow{
+    box-shadow: inset;
+}
+
+
+.color{
+    height: 500%;
+    width: 200;
+    
+}
+.cards-wrapper{
+    display: flex;
+
+}
+.card{
+    margin: 0 .5em;
+    width: calc(100%3);
+}
+
+.alignLeft{
+    padding: 100px;
+}
+.color{
+
+    color: white;
+}
+.addline{
+    margin-top:5px ;
+}
+.font{
+    font-weight: bold;
+}
